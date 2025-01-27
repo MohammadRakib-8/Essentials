@@ -1,0 +1,3 @@
+.bat
+Set __COMPAT_LAYER=RunAsInvoker
+Start APP_EXE_NAME.exe
